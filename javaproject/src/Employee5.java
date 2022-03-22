@@ -30,9 +30,7 @@ public class Employee5 {
 
 	@Override
 	public String toString() {
-		return "Employee5 [id=" + id + ", ename=" + ename + ", salary=" + salary + ", getId()=" + getId()
-				+ ", getEname()=" + getEname() + ", getSalary()=" + getSalary() + ", getClass()=" + getClass()
-				+ ", hashCode()=" + hashCode() + ", toString()=" + super.toString() + "]";
+		return "Employee id =" + id +"\n"+"ename = " + ename +"\n"+"salary=" + salary; 
 	}
 
 	public static void main(String[] args) {

@@ -1,4 +1,4 @@
-
+// Single level inheritence
 public class Bike {
 	int speed = 200;
 	

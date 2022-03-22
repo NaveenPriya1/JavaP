@@ -1,4 +1,6 @@
-import com.java.basics.Main;
+//employ salary increment using getters and setters
+
+
 
 public class EmpSal {
 	private int empId;
