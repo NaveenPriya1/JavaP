@@ -1,0 +1,5 @@
+package com.javap;
+
+public abstract class Calculator {
+
+}

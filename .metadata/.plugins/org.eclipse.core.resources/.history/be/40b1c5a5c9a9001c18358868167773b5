@@ -1,0 +1,9 @@
+package com.javap;
+
+public class Person {
+     String name;
+     
+     Person(String name){
+    	 this.name = name;
+     }
+}

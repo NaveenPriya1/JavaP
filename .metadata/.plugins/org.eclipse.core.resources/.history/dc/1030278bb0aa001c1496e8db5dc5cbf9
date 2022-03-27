@@ -1,0 +1,13 @@
+
+public class ArrayEx1 {
+	public static void main(String[] args) {
+		int a[] = new int[5];
+		int b[] = new int[] { 2, 3, 4, 5, 6 };
+
+		for (int x : b) {
+			System.out.println(x);
+		}
+
+	}
+
+}

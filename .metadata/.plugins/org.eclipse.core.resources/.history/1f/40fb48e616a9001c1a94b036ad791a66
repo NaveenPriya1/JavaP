@@ -1,0 +1,13 @@
+package com.java.basics;
+
+public class Employee$ {
+	double salary;
+
+	Employee$(double salary){
+    this.salary = salary;
+	}
+	
+	void display() {
+		
+	}
+}

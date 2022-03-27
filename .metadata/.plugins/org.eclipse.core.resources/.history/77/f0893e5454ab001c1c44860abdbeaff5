@@ -1,0 +1,12 @@
+package com.music.live;
+
+import com.music.string.Veena;
+
+public class Test {
+
+	public static void main(String[] args) {
+		Veena v = new Veena();
+		v.play();
+	}
+
+}

@@ -1,0 +1,12 @@
+package com.collections;
+
+public class CollectionsEx {
+public static void main(String[] args) {
+	
+	/*unboxing
+	 converting the wrapper class obj to primary data type */
+	Integer i = new Integer(12);
+	int j = i;
+	System.out.println(j);
+}
+}

@@ -1,0 +1,17 @@
+package com.java.basics;  //static
+
+public class Incrementor1 {
+  static  int counter = 0;
+    
+    Incrementor1() {
+    	counter++;
+    	System.out.println(counter);
+    }
+    
+    public static void main(String[] args) {
+    	Incrementor1 i1 = new Incrementor1();
+    	Incrementor1 i2 = new Incrementor1();
+    	Incrementor1 i3 = new Incrementor1();
+	} 
+    
+}

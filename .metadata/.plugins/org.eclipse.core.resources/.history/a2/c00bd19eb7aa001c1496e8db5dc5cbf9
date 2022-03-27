@@ -1,0 +1,19 @@
+import java.util.Scanner;
+
+public class ArrayEx4 {
+
+	public static void main(String[] args) {
+		int size;
+		Scanner sc = new Scanner(System.in);
+		System.out.println("Enter the of the Array");
+		size = sc.nextInt();
+		int a[] = new int[size];
+		for (int i=0;i<a.length;i++) {
+			System.out.println("Enter the value of array at location"+i);
+		}
+		for(int x:a) {
+			System.out.println(x);
+		}
+	}
+
+}

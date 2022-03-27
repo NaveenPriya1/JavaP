@@ -1,0 +1,5 @@
+package com.Exception.ATM;
+
+public class InvalidAccountBalanceException extends Exception {
+
+}

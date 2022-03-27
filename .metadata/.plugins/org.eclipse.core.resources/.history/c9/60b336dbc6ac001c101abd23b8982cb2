@@ -1,0 +1,15 @@
+// To delete file
+
+package com.File;
+
+import java.io.File;
+
+public class FileDelete {
+
+	public static void main(String[] args) {
+		File f = new File("D://TestingFile.txt");
+		f.delete();
+		System.out.println(f.exists());
+	}
+
+}

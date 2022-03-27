@@ -1,0 +1,16 @@
+// Hierarchical Inheritance:
+
+public class Bike3 {
+int speed = 200;
+}
+
+class Duke extends Bike3{
+	void DukeSpeed() {
+		System.out.println(speed+100);
+	}
+}
+class Yamaha extends Bike3{
+	void YamahaSpeed() {
+		System.out.println(speed+200);
+	}
+}

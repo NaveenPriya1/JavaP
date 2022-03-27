@@ -1,0 +1,9 @@
+// Array of Objects
+import java.util.Arrays;
+import java.util.Scanner;
+
+public class ArrayEx5 {
+int sid;
+String sname;
+
+}

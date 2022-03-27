@@ -1,0 +1,10 @@
+package com.javap;
+
+public interface Calculator21 {
+
+
+void div(int x, int y);
+
+void mul(int x, int y);
+
+}

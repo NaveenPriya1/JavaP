@@ -1,0 +1,21 @@
+
+public class Bike1 {
+	int speed = 200;
+}
+
+class Duke extends Bike {
+
+	void speedR15() {
+		System.out.println(speed + 150);
+	}
+}
+
+class SInheritence {
+
+	public static void main(String[] args) {
+		Duke r15 = new Duke();
+		r15.speedR15();
+
+	}
+
+}

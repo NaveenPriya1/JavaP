@@ -1,0 +1,5 @@
+package com.Exception.vote;
+
+public class InvalidAgeException extends Exception {
+
+}

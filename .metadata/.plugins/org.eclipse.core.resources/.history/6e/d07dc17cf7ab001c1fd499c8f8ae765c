@@ -1,0 +1,16 @@
+// ArrayIndexOutOfBoundException
+
+package com.Strings;
+
+public class ExceptionEx {
+
+	public static void main(String[] args) {
+		System.out.println("Hi");
+		try {
+			int a[] = {1,2,3,4,5};
+			b[7] = 50;
+		}catck(Exception)
+		}
+	}
+
+}

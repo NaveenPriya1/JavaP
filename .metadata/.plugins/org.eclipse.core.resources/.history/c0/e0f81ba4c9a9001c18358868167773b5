@@ -1,0 +1,12 @@
+package com.javap;
+
+public class TestEmp extends Person{
+
+	public static void main(String[] args) {
+		TestEmp p = new TestEmp("Naveen");
+		p.setAnnSalary = 25000;
+		System.out.println();
+		
+	}
+
+}

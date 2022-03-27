@@ -1,0 +1,12 @@
+import java.util.Scanner;
+
+public class ArrayEx3 {
+
+	public static void main(String[] args) {
+		int size;
+		Scanner sc = new Scanner(System.in);
+		System.out.println("Enter the size of Array");
+		
+	}
+
+}

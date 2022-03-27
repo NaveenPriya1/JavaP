@@ -1,0 +1,23 @@
+import java.util.Scanner;
+
+public class ArrayEx2 {
+
+	
+
+	public static void main(String[] args) {
+		int empno;
+		String empname;
+		
+		Scanner sc = new Scanner(System.in);
+		System.out.println("Enter the Value for Empno");
+		empname = sc.next();
+		System.out.println(empname);
+		
+		
+		
+	}
+
+	
+	}
+
+

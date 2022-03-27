@@ -1,0 +1,17 @@
+// static
+
+public class Incrementor {
+	int counter = 0;
+
+	Incrementor() {
+		counter++;
+		System.out.println(counter);
+	}
+
+	public static void main(String[] args) {
+		new Incrementor();
+		new Incrementor();
+		new Incrementor();
+	}
+
+}

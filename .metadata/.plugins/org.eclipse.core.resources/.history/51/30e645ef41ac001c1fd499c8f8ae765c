@@ -1,0 +1,24 @@
+// collections arraylist
+
+package com.collections;
+
+import java.util.ArrayList;
+
+
+public class CollectionsEx1 {
+
+	public static void main(String[] args) {
+		ArrayList<Integer> al = new ArrayList<Integer>();
+		al.add(55);
+		al.add(5);
+		al.add(1);
+		System.out.println(al);
+		 
+		//for loop
+		for (int i = 0;i< al.size();i++) {
+			System.out.println(al.get(i));
+		}
+
+	}
+
+}

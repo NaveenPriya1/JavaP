@@ -1,0 +1,14 @@
+// To check whether the file is there or not
+
+package com.File;
+
+import java.io.File;
+
+public class FileEx2 {
+
+	public static void main(String[] args) {
+		File f = new File("D://TestingFile");
+		System.out.println(f.exists());
+	}
+
+}

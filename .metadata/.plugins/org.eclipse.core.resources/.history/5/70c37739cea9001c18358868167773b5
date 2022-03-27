@@ -1,0 +1,52 @@
+import com.java.basics.Main;
+
+public class EmpSal {
+	    private int empId;
+	    private String name;
+	    private double sal;
+	    
+	    
+	        public int getEmpId() {
+	            return this.empId;
+	        }
+	    
+	        public void setEmpId(int empId) {
+	            this.empId = empId;
+	        }
+	    
+	        public String getName() {
+	            return this.name;
+	        }
+	    
+	        public void setName(String name) {
+	            this.name = name;
+	        }
+	    
+	        public double getSal() {
+	            return this.sal;
+	        }
+	    
+	        public void setSal(double sal) {
+	            this.sal = sal;
+	        }
+	    
+	        public double incrMentSal(double sal) {
+	            
+	                return sal = sal+sal*0.1 ;
+	        }
+	        
+	        
+	        
+	        
+	    @Override
+	        public String toString() {
+	            return " [ EmpId=" + this.empId + ", Name=" + this.name + ", Actualsal=" + this.sal + ", After Bonas Sal =" + this.incrMentSal(sal);
+	
+   
+	    }
+	    public static void main(String[] args) {
+			EmpSal e = new EmpSal();
+			double e1 = e.incrMentSal(25000);
+			System.out.println(e1);
+		}
+}

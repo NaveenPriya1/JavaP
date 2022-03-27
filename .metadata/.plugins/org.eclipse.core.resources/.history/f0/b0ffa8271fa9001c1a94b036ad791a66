@@ -1,0 +1,16 @@
+
+public class Incrementor1 {
+   static int counter = 0;
+   
+   static void increment() {
+	   counter++;
+	   System.out.println(counter);
+   }
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+        Incrementor1.increment();
+        Incrementor1.increment();
+        Incrementor1.increment();
+	}
+
+}

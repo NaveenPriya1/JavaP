@@ -1,0 +1,24 @@
+package com.java.basics;
+
+public class CompanyInfo {
+	int id;
+	String ename;
+	static String compname = "Infosys";
+
+	 public void change() {
+		this.compname = "TCS";
+	}
+	 CompanyInfo(int id,String ename){
+		 this.id = id;
+		 this.ename = ename;
+		
+	 }
+	public static void main(String[] args) {
+		CompanyInfo c1 = new CompanyInfo(11,"Naveen");
+		System.out.println(" id is "+c1.id+" ename is "+c1.ename+"compname is"+CompanyInfo.compname;);
+		
+	} 
+
+	
+
+}

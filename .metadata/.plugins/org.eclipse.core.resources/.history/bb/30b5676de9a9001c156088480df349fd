@@ -1,0 +1,30 @@
+package com.javap;
+
+public class PerEmp extends Employee{
+    String name;
+    int eid;
+    double salary;
+    
+	public void PerEmp(String name, int eid,double salary) {
+
+		this.name = name;
+		this.eid = eid;
+		this.incSal(salary);
+	}
+    
+    
+}
+class TempEmp extends Employee{
+	 String name;
+	    int eid;
+	    double salary;
+	    
+		public TempEmp(String name, int eid,double salary) {
+			super();
+			this.name = name;
+			this.eid = eid;
+			this.incSal(salary);
+		}
+}
+
+

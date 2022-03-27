@@ -1,0 +1,13 @@
+package com.javap;
+
+public class TestEmp{
+
+	public static void main(String[] args) {
+		Employee9 e = new Employee9("naveen", 25000,2022 , "126578");
+		e.toString();
+		
+		
+		
+	}
+
+}

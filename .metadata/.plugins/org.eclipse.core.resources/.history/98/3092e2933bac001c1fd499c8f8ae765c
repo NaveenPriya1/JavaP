@@ -1,0 +1,19 @@
+// finally block
+
+
+package com.Strings;
+
+public class ExceptionEx3 {
+
+	public static void main(String[] args) {
+		
+		System.out.println("Hi");
+		try {
+			int b[] = new {1,2,3,4,5};
+			b[7] = 50;
+		}
+		finally {
+      System.out.println("");
+	}
+
+}

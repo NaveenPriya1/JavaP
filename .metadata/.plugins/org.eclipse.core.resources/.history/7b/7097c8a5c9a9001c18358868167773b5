@@ -1,0 +1,27 @@
+package com.javap;
+
+public class Employee9 extends Person{
+   private double annSalary;
+   private int eJoinD;
+   private int niNum;
+public double getAnnSalary() {
+	return annSalary;
+}
+public void setAnnSalary(double annSalary) {
+	this.annSalary = annSalary;
+}
+public int geteJoinD() {
+	return eJoinD;
+}
+public void seteJoinD(int eJoinD) {
+	this.eJoinD = eJoinD;
+}
+public int getNiNum() {
+	return niNum;
+}
+public void setNiNum(int niNum) {
+	this.niNum = niNum;
+}
+   
+   
+}

@@ -1,0 +1,10 @@
+package com.javap;
+
+public class Employeemain {
+
+	public static void main(String[] args) {
+		PerEmp p = new PerEmp("Naveen", 123, 50000);
+		System.out.println(p.perEmp());
+	}
+
+}

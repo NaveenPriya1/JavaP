@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="javax.annotation.processing.SupportedSourceVersion"/>
+    <fullyQualifiedTypeName name="com.javap.Employee9"/>
+    <fullyQualifiedTypeName name="com.java.basics.Main"/>
+    <fullyQualifiedTypeName name="EmpSal"/>
+    <fullyQualifiedTypeName name="Bike1"/>
+    <fullyQualifiedTypeName name="Bike3"/>
+    <fullyQualifiedTypeName name="Yamaha"/>
+    <fullyQualifiedTypeName name="com.javap.Employee"/>
+    <fullyQualifiedTypeName name="com.javap.PerEmp"/>
+    <fullyQualifiedTypeName name="com.javap.TempEmp"/>
+    <fullyQualifiedTypeName name="com.javap.Calculator"/>
+    <fullyQualifiedTypeName name="ArrayEx1"/>
+    <fullyQualifiedTypeName name="Scanner"/>
+    <fullyQualifiedTypeName name="com.javap.Calculator1"/>
+    <fullyQualifiedTypeName name="com.javap.Calculator21"/>
+    <fullyQualifiedTypeName name="com.javap.CalculatorImp"/>
+    <fullyQualifiedTypeName name="com.javap.ImpCalculator"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="com.music.string.Veena"/>
+    <fullyQualifiedTypeName name="com.music.wind.Saxophone"/>
+    <fullyQualifiedTypeName name="com.music.Playable"/>
+    <fullyQualifiedTypeName name="com.Exception.vote.AgeValidator"/>
+    <fullyQualifiedTypeName name="com.Exception.ATM.AtmSbi"/>
+    <fullyQualifiedTypeName name="java.io.FileOutputStream"/>
+    <fullyQualifiedTypeName name="com.Arrays.Array"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="javax.swing.text.html.HTMLDocument.Iterator"/>
+    <fullyQualifiedTypeName name="java.util.Iterator"/>
+    <fullyQualifiedTypeName name="java.io.File"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="com.File.FileReader"/>
+    <fullyQualifiedTypeName name="java.io.FileReader"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="Student"/>
+</qualifiedTypeNameHistroy>

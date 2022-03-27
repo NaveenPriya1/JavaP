@@ -1,0 +1,17 @@
+//content copy of one array to other
+
+
+package com.Arrays;
+
+import java.util.Scanner;
+
+public class ArrayEx {
+
+	public static void main(String[] args) {
+		int size;
+		Scanner sc = new Scanner(System.in);
+		System.out.println("Enter the value for size of array");
+		size = sc.nextInt();
+	}
+
+}

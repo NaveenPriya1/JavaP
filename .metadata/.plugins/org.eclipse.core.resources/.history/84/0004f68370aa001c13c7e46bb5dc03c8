@@ -1,0 +1,13 @@
+
+
+public class ArrayEx1 {
+	int a[] = new int[5];
+	int b[] = new int[] { 2, 3, 4, 5, 6 };
+	
+	public static void main(String[] args) {
+	ArrayEx1 a = new ArrayEx1();
+		
+		System.out.println(a);
+	}
+
+}

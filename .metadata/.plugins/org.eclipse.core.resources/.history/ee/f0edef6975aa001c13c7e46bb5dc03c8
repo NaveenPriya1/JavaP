@@ -1,0 +1,27 @@
+import java.io.InputStream;
+
+public class Scanner {
+
+	public Scanner(InputStream in) {
+		// TODO Auto-generated constructor stub
+	}
+
+	public static void main(String[] args) {
+		int empno;
+		String empname;
+		
+		Scanner sc = new Scanner(System.in);
+		System.out.println("Enter the Value for Empno");
+		empno = sc.nextint();
+		System.out.println(empno);
+		
+		
+		
+	}
+
+	private int nextint() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+}

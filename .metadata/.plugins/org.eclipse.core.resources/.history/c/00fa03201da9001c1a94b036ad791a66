@@ -1,0 +1,17 @@
+package com.java.basics;
+
+public class Incrementor {
+   static int counter = 0;
+    
+   static void increment() {
+    	counter++;
+    	System.out.println(counter++);
+    }
+    
+    public static void main(String[] args) {
+    	Incrementor.increment();
+    	Incrementor.increment();
+    	Incrementor.increment();
+	}
+    
+}
